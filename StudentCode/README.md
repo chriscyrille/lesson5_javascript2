@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 26th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Christopher Cyrille
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In this project I practices storing values in an array. It was exciting to work on this assignment and find out different features that lie in web app
+designs. As far as this assignment being a tax calculator, I can now be prepared with my finances for tax season in the future.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://chriscyrille.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. if and if/else statements are helping when attempting to have a program make a decision.
+2. Variable Scope is when a declared vaariable can be used in a code. It is best practice to always use var.
+3. Functions use a parameter when trying to be more precise with choosing a retun.
 
